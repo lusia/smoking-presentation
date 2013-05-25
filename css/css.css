@@ -1,0 +1,51 @@
+img#cigaret {
+    float: left;
+}
+
+img {
+    width: 80%;
+}
+
+h1 {
+    padding-left: 400px;
+    font-size: 75px;
+}
+
+ul.effekten {
+    list-style-type: square;
+}
+
+ul.effekten li {
+    font-size: 27px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+}
+
+span {
+    font-size: 15px;
+}
+
+table, th, td {
+    border: 1px solid #000000;
+    font-size: 20px;
+}
+
+td {
+    height: 40px;
+    width: 127px;
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+}
+tr#dan {
+    font-weight: bold;
+}
