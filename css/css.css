@@ -41,11 +41,20 @@ td {
     height: 40px;
     width: 127px;
     text-align: center;
+
 }
 
 th {
     font-weight: bold;
+
 }
+
 tr#dan {
     font-weight: bold;
+    background-color: #add8e6;
+    color: #000000;
+}
+
+tr {
+
 }
