@@ -1,7 +1,3 @@
-img#cigaret {
-    float: left;
-}
-
 img {
     width: 80%;
 }
@@ -53,8 +49,4 @@ tr#dan {
     font-weight: bold;
     background-color: #add8e6;
     color: #000000;
-}
-
-tr {
-
 }
